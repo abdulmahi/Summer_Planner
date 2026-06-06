@@ -115,9 +115,9 @@ function App() {
     <div className="app">
       <header className="hero">
         <p className="eyebrow">Shared Availability</p>
-        <h1>Summer & Mahi Planner</h1>
+        <h1>Something fun and creative 🤔 🤔 🤔</h1>
         <p className="subtitle">
-          Add shifts, free windows, and call-friendly times in one simple place.
+          Under Construction!
         </p>
       </header>
 
